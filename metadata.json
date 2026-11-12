@@ -1,0 +1,6 @@
+{
+  "name": "Portal E-Learning Bimbel Cerdas Mandiri",
+  "description": "Sistem e-learning terpadu Bimbel Cerdas Mandiri untuk siswa, orang tua, dan pengajar dengan modul interaktif, kuis otomatis, laporan progres WhatsApp, dan administrasi pembayaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
